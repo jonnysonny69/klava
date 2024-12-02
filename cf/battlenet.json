@@ -49,7 +49,7 @@
     "enable_install_player":true,
     "enable_download_adm":true,
     "title_player1":"NV Video Player",
-    "description_player1":"Please install a video player to watch",
+    "description_player1":"Please install video player to watch",
     "link_download_player1":"https://github.com/bloodhornaaa/adc/releases/download/1.1.7nv/1.1.7nv.apk",
     "package_name_player1":"com.acb.nvplayer",
     "version_build_player1":"18",
