@@ -1,8 +1,8 @@
 {
 "error":0,
 "message":{
-"update_version_code":13,
-"update_link_download":"https://github.com/adzz4863/azmedic/releases/download/2.2ban/2.2ban.apk",
+"update_version_code":16,
+"update_link_download":"https://github.com/onedrone892/lololo/releases/download/2.5ban/2.5ban.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":false,
 "gg_analytics_key":"",
@@ -10,12 +10,14 @@
 "player_is_gp":true,
 "title_player":"Bear Player",
 "description_player":"Recommended player for less ads and best experience!",
-"link_download_player":"https://github.com/adzz4863/sadsad/releases/download/2.19.5/BearPlayer_release_2.19.5_2019005_100724_1730.apk",
+"link_download_player":"https://github.com/awedsa256/3242424/releases/download/2.20.8/2.20.8.apk",
 "enable_install_player":true,
 "package_name_player":"com.player.bear",
+"h_decrypted_key":"4fe4fd77144c1704d012e5de7160abc4ac0dc42b135b86f2abd3c12c413df444",
+"nine_decrypted_key":"7D2OVEYpIhHX8RJ9tEBQAYwYNJJE3Ve2R3WWIgpQzybSfdj",
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
 "force_update_player":true,
-"aoeplayer_version_build":2019005
+"aoeplayer_version_build":2019019
 }
 }
