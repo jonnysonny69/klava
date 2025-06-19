@@ -15,15 +15,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 4.2.3</br>
+<br>- Version: 4.2.5</br>
 <br>- Size: 11.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"237",  
-"update_version":"4.2.3",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.2.3/4.2.3.apk",  
+"update_build":"239",  
+"update_version":"4.2.5",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.2.5/4.2.5.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
@@ -72,7 +72,7 @@
 "site_cookie_test":"https://series9.me,https://www.putlockers.ro",
 "iron_enable":"1",
 "opensub_new": false,
-"sf_decrypted_key":"897453d80f7fddbbcaa61eb742e13edf9afe584982038b62ec5a7862c385fff3",
+"sf_decrypted_key":"a3ae858d5f18a845fae895b659fa55fd5e8f76522e4eacd767eca4e367409f2b",
 "captcha_cookie_test":"",
 "collection":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDcxMTE4MTksICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJUSEUgQkVTVCBNT1ZJRVMgT0YgMjAyMSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiA4NDc3NCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk1vdmllcyB3aXRoIG92ZXIgJDEgQmlsbGlvbiBSZXZlbnVlIFdvcmxkd2lkZSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiA5NTA0MSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk1BUlZFTCBhbmQgREMgQ09NSUNTIFRWIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDkyODgzLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiVG9wIFJhdGVkIFRWIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDg0Mjk5LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiQmVzdCBNb2Rlcm4gSG9ycm9yIE1vdmllcyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiA4NDIzNywgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRvcCBSYXRlZCBNb3ZpZXMgb2YgQWxsIFRpbWUiIH0seyAiaWQiOiAiIiwgImxpc3RfaWQiOiA5MjU4OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkxhdGVzdCBTcG9ydCBFdmVudHMiIH1dIH0="
 }
