@@ -15,15 +15,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 4.2.7</br>
+<br>- Version: 4.3.0</br>
 <br>- Size: 11.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"241",  
-"update_version":"4.2.7",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.2.7/4.2.7.apk",  
+"update_build":"244",  
+"update_version":"4.3.0",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.3.0/4.3.0.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
