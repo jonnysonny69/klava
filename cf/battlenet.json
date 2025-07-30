@@ -15,15 +15,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 4.3.0</br>
+<br>- Version: 4.3.2</br>
 <br>- Size: 11.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links.</br>",  
-"update_build":"244",  
-"update_version":"4.3.0",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.3.0/4.3.0.apk",  
+"update_build":"246",  
+"update_version":"4.3.2",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.3.2/4.3.2.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
@@ -50,9 +50,9 @@
 "enable_download_adm":true,
 "title_player1":"NV Video Player",
 "description_player1":"Please install a video player to watch",
-"link_download_player1":"https://github.com/bloodhornaaa/adc/releases/download/1.1.8nv/1.1.8nv.apk",
+"link_download_player1":"https://github.com/bloodhornaaa/32eqwqds/releases/download/1.1.9nv/1.1.9nv.apk",
 "package_name_player1":"com.acb.nvplayer",
-"version_build_player1":"19",
+"version_build_player1":"20",
 "title_player2":"HB Player",
 "link_download_player2":"https://github.com/bloodhornaaa/adc/releases/download/1.1.9hb/1.1.9hb.apk",
 "package_name_player2":"com.nx.video.player",
@@ -60,6 +60,11 @@
 "force_player_directlink":true,
 "force_playernew_directlink":true,
 "enable_force_player":true,
+"title_player3":"Bear Player",
+"version_build_player3":"2019019",
+"link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.8/2.20.8.apk",
+"package_name_player3":"com.player.bear",
+"force_download_player3_apk":false,
 "banner_photo":"",
 "banner_link":"",
 "banner_text":"",
