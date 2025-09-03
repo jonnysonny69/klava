@@ -13,26 +13,26 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
-<br></br>
+\n<br></br>\n
 <b>Release Info</b>
-<br>- Version: 4.3.4</br>
-<br>- Size: 11.3MB</br>
-<br></br>
-<br><b>Change logs</b></br>
-<br>- Filter English movies and tv shows.</br>
-<br>- Add links.</br>",  
-"update_build":"248",  
-"update_version":"4.3.4",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.3.4/4.3.4.apk",  
+\n<br>- Version: 4.4.1</br>\n
+\n<br>- Size: 11.3MB</br>\n
+\n<br></br>\n
+\n<br><b>Change logs</b></br>\n
+\n<br>- Fix crash.</br>\n
+\n<br>- Add more links.</br>\n",  
+"update_build":"255",  
+"update_version":"4.4.1",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.4.1/4.4.1.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
 "tmdb_key":"5b458cad0b474d21129c717626038657",
 "ads_priority":"amazon",
-"text_link":"https://banime.xyz/",
-"text_content":"Fast and high quality",
-"text_title":"Watch Anime",
+"text_link":"https://123sportlive.me/",
+"text_content":"Live Soccer App",
+"text_title":"Live soccer",
 "text_type":"link",
 "text_id":"71446",
 "custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
@@ -61,8 +61,8 @@
 "force_playernew_directlink":true,
 "enable_force_player":true,
 "title_player3":"Bear Player",
-"version_build_player3":"2019020",
-"link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.9/2.20.9.apk",
+"version_build_player3":"2019022",
+"link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.11/2.20.11.apk",
 "package_name_player3":"com.player.bear",
 "force_download_player3_apk":false,
 "banner_photo":"",
