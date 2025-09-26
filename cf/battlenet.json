@@ -15,15 +15,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 \n<br></br>\n
 <b>Release Info</b>
-\n<br>- Version: 4.4.2</br>\n
+\n<br>- Version: 4.4.3</br>\n
 \n<br>- Size: 11.3MB</br>\n
 \n<br></br>\n
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"256",  
-"update_version":"4.4.2",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.4.2/4.4.2.apk",  
+"update_build":"257",  
+"update_version":"4.4.3",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.4.3/4.4.3.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
@@ -61,8 +61,8 @@
 "force_playernew_directlink":true,
 "enable_force_player":true,
 "title_player3":"Bear Player",
-"version_build_player3":"2019022",
-"link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.11/2.20.11.apk",
+"version_build_player3":"2019023",
+"link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.13/2.20.13.apk",
 "package_name_player3":"com.player.bear",
 "force_download_player3_apk":false,
 "banner_photo":"",
