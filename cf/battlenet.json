@@ -15,15 +15,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version to support developer.
 \n<br></br>\n
 <b>Release Info</b>
-\n<br>- Version: 4.5.8</br>\n
+\n<br>- Version: 4.6.1</br>\n
 \n<br>- Size: 14.3MB</br>\n
 \n<br></br>\n
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"272",  
-"update_version":"4.5.8",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/272/4.5.8.apk",  
+"update_build":"275",  
+"update_version":"4.6.1",  
+"update_link":"https://github.com/onedrone892/lololo/releases/download/4.6.1/4.6.1.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
@@ -61,8 +61,8 @@
 "force_playernew_directlink":true,
 "enable_force_player":true,
 "title_player3":"Bear Player",
-"version_build_player3":"2019034",
-"link_download_player3":"https://github.com/johnjonsnow1985/ads/releases/download/2.20.24/2.20.24.apk",
+"version_build_player3":"2019036",
+"link_download_player3":"https://github.com/johnjonsnow1985/ads/releases/download/2019036/2.20.26.apk",
 "package_name_player3":"com.player.bear",
 "enable_force_update_player":true,
 "force_download_player3_apk":false,
