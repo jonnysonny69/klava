@@ -1,42 +1,42 @@
 {
 "status": 1,
-"left_menu_image":"https://i.imgur.com/xT0VHw4.jpeg",  
+"left_menu_image":"https://i.postimg.cc/3wgXFWRq/image.png",  
 "update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version to support developer.
 \n<br></br>\n
 <b>Release Info</b>
-\n<br>- Version: 4.7.0</br>\n
+\n<br>- Version: 1.0.0</br>\n
 \n<br>- Size: 14.3MB</br>\n
 \n<br></br>\n
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"284",  
-"update_version":"4.7.0",  
-"update_link":"https://github.com/onedrone892/lololo/releases/download/4.7.0/4.7.0.apk",
-"pkg_uninstall":"com.busydev.audiocutter",
+"update_build":"1",  
+"update_version":"1.0.0",  
+"update_link":"https://github.com/anathanstyle6/adcs/releases/download/1/1.0.0cni.apk",
+"pkg_uninstall":"com.bweather.adx",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
 "tmdb_key":"5b458cad0b474d21129c717626038657",
 "text_link":"http://google.com",
-"text_content":"This application is no longer supported or updated.",
-"text_title":"App Discontinued",
-"text_type":"link",
+"text_content":"Hello",
+"text_title":"Hello World",
+"text_type":"hide",
 "text_id":"71446",
 "custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
 "custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
 "custom_fullads_gif":false,
 "custom_fullads_enable":false,
-"menu_text_tv":"Free Anime App",
-"menu_link_tv":"https://banime.xyz/",
+"menu_text_tv":"",
+"menu_link_tv":"",
 "menu_link_phone":"",
 "menu_text_phone":"",
 "enable_download_adm":true,
 "force_player_directlink":true,
-"title_player3":"Bear Player",
-"version_build_player3":"2019036",
-"link_download_player3":"https://github.com/johnjonsnow1985/ads/releases/download/2019036/2.20.26.apk",
+"title_player3":"Install a Video Player",
+"version_build_player3":"2019044",
+"link_download_player3":"https://github.com/johnjonsnow1985/ads/releases/download/2.20.34fl/2.20.34fl.apk",
 "package_name_player3":"com.player.bear",
 "enable_force_update_player":true,
 "force_download_player3_apk":false,
