@@ -13,9 +13,9 @@
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"1",  
-"update_version":"1.0.0",  
-"update_link":"https://github.com/anathanstyle6/adcs/releases/download/1/1.0.0cni.apk",
+"update_build":"2",  
+"update_version":"1.0.1",  
+"update_link":"https://github.com/onedrone892/22321/releases/download/1.0.1/1.0.1cni.apk",
 "pkg_uninstall":"com.bweather.adx",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
 "tmdb_key":"5b458cad0b474d21129c717626038657",
